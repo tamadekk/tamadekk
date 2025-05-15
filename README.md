@@ -30,5 +30,5 @@ Here are the tools and technologies I work with:
 
 Feel free to connect or collaborate!
 
-- 💼 [LinkedIn](https://linkedin.com/in/tamadekk](https://www.linkedin.com/in/vladyslav-raduta-815886264/)) *(replace with actual URL if available)*
+- 💼 [LinkedIn](https://linkedin.com/in/tamadekk](https://www.linkedin.com/in/vladyslav-raduta-815886264/))
 
