@@ -18,7 +18,7 @@ I care more about simplicity and function than buzzwords.
 
 ## About
 
-- I build things for the web and keep them lightweight  
+- I build things for the web  
 - I enjoy contributing to open-source projects  
 - Usually working on side ideas
 - Coffee helps  
